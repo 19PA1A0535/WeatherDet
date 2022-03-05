@@ -19,5 +19,5 @@ Friday, 4:00 pm
 Haze
 33°C
 
-#Summary
+# Summary
 So this is how we can get live weather updates of any city by using your web scraping and python.

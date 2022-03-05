@@ -8,3 +8,16 @@ To get the live weather conditions of any city using Python, we first have to in
 pip install beautifulsoup4
 
 After installing this library, you can now start with this task by importing the necessary Python libraries that we need for this task. After importing the libraries we need to scrape the weather updates of a city by searching about it on Google.
+
+
+After running code we will get like this.
+Enter the Name of Any City >>  New Delhi
+Searching......
+
+New Delhi, Delhi
+Friday, 4:00 pm
+Haze
+33°C
+
+#Summary
+So this is how we can get live weather updates of any city by using your web scraping and python.
